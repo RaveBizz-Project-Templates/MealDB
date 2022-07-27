@@ -1,6 +1,6 @@
 # MealDB
 
-- [Api docs][https://themealdb.com/api.php]
+- [Api docs](https://themealdb.com/api.php)
 - [WireFrames](https://whimsical.com/meals-db-L2Q6N79JbBY6AqaskSWcdY)
 
 
