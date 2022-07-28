@@ -2,6 +2,7 @@
 
 - [Api docs](https://themealdb.com/api.php)
 - [WireFrames](https://whimsical.com/meals-db-L2Q6N79JbBY6AqaskSWcdY)
+- [Project Board](https://ravebizz.notion.site/The-Meal-DB-e7cd0fed0bfd4ee6b7305df2d3134768)
 
 
 
